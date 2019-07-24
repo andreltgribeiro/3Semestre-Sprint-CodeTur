@@ -1,0 +1,26 @@
+chega em evento e distribui problemas, Tem muito gasto
+
+Aplicativo para listar pacotes ativos, detalhes de pacotes que tenha contato com a empresa, botão pra fazer ligação
+
+Titulo
+descrição
+pra onde leva o pacote
+preço
+datas do pacote
+imagem
+
+
+Seguir identidade visual
+
+
+
+no web:
+Acesso administrador
+Senha segura e criptofragada
+Cadastrar pacotes
+Editar pacotes
+Habilitar e desabilitar pacotes
+Sistema bonito
+
+Seguir identidade Visual
+
